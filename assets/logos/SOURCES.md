@@ -1,0 +1,35 @@
+Technology logos: Devicon (MIT) and Simple Icons (CC0). Brand rights remain with their owners.
+
+- angular: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/angular/angular-original.svg
+- aws: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg
+- c: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/c/c-original.svg
+- claude: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg
+- docker: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg
+- fastapi: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg
+- git: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg
+- grafana: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/grafana/grafana-original.svg
+- html: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg
+- java: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/java/java-original.svg
+- jupyter: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg
+- kubernetes: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/kubernetes/kubernetes-original.svg
+- linux: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg
+- mistral: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/mistralai.svg
+- mongodb: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongodb/mongodb-original.svg
+- mysql: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mysql/mysql-original.svg
+- openai: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/openai.svg
+- opensearch: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/opensearch.svg
+- pandas: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg
+- postgresql: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg
+- powerbi: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/powerbi.svg
+- prometheus: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/prometheus/prometheus-original.svg
+- python: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg
+- pytorch: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg
+- r: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/r/r-original.svg
+- scikit: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg
+- streamlit: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/streamlit/streamlit-original.svg
+- tensorflow: https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/tensorflow/tensorflow-original.svg
+- twilio: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/twilio.svg
+- whatsapp: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/whatsapp.svg
+- langchain: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/langchain.svg
+- n8n: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg
+- huggingface: https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/huggingface.svg

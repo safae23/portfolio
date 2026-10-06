@@ -1,0 +1,12 @@
+﻿.tools/
+artifacts/
+__pycache__/
+*.log
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+/SOURCES.md
+/VALIDATION.md
