@@ -6,7 +6,7 @@ window.portfolio = {
     "email": "chouaisafae3@gmail.com",
     "github": "https://github.com/safae23",
     "linkedin": "https://www.linkedin.com/in/safae-chouai",
-    "cv": "assets/CV_CHOUAI_Safae.pdf?v=20261016",
+    "cv": "assets/CV_CHOUAI_Safae.pdf?v=20261016-2",
     "site": null
   },
   "education": [
@@ -542,7 +542,7 @@ window.portfolio = {
     },
     {
       "company": "Yadag Technologies Inc",
-      "role": "Data & AI Engineer | Stage · Casablanca, Maroc",
+      "role": "AI Automation Engineer | Stage · Casablanca, Maroc",
       "period": "Juin – Octobre 2025",
       "text": "Conception et développement de Melissa, une assistante conversationnelle multilingue sur WhatsApp pour automatiser les interactions des producteurs agricoles.",
       "contributions": [
